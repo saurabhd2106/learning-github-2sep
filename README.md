@@ -10,4 +10,4 @@ Another change
 
 Change after commit
 
-Made changes in Feature 1
+Made changes in Feature 2
