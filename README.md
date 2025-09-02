@@ -9,3 +9,5 @@ Another change
 1 more change
 
 Change after commit
+
+Made changes in Feature 1
