@@ -6,4 +6,6 @@ Adding more changes
 
 Another change
 
+1 more change
+
 Change after commit
